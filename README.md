@@ -1,7 +1,7 @@
 # Meu nome é João Guilherme:
-## - Primeiro semestre da faculdade
-## - Cursando Ciências da computação
-## - Faço arte digital por diversão
+### - Primeiro semestre da faculdade
+### - Cursando Ciências da computação
+### - Faço arte digital por diversão
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-guilherme-rangel-631322365) 
