@@ -1,11 +1,12 @@
-## Meu nome é João Guilherme:
-- Primeiro semestre da faculdade
-- Faço arte digital
+# Meu nome é João Guilherme:
+## - Primeiro semestre da faculdade
+## - Cursando Ciências da computação
+## - Faço arte digital por diversão
 
-## Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-guilherme-rangel-631322365) 
 
-## Linguagens e Ferramentas:
+# Linguagens e Ferramentas:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white)
 
 <picture>
